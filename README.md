@@ -26,10 +26,6 @@ A Windows Forms-based scholarship management system with fingerprint verificatio
 
 ## Screenshots 🖼
 
-<img width="702" alt="Loading" src="https://raw.githubusercontent.com/Faheemabdullah6522/OOP-Project/main/Window%20Forms/screenshots/Screenshot%202026-06-15%20111723.png">
-
-<img width="702" alt="Login" src="https://raw.githubusercontent.com/Faheemabdullah6522/OOP-Project/main/Window%20Forms/screenshots/Screenshot%202026-06-15%20111736.png">
-
 <img width="702" alt="Register" src="https://raw.githubusercontent.com/Faheemabdullah6522/OOP-Project/main/Window%20Forms/screenshots/Screenshot%202026-06-15%20111743.png">
 
 <img width="702" alt="Student Dashboard" src="https://raw.githubusercontent.com/Faheemabdullah6522/OOP-Project/main/Window%20Forms/screenshots/Screenshot%202026-06-15%20111754.png">
@@ -37,8 +33,6 @@ A Windows Forms-based scholarship management system with fingerprint verificatio
 <img width="702" alt="Apply Form" src="https://raw.githubusercontent.com/Faheemabdullah6522/OOP-Project/main/Window%20Forms/screenshots/Screenshot%202026-06-15%20111829.png">
 
 <img width="702" alt="Admin Dashboard" src="https://raw.githubusercontent.com/Faheemabdullah6522/OOP-Project/main/Window%20Forms/screenshots/Screenshot%202026-06-15%20111851.png">
-
-<img width="702" alt="All Applications" src="https://raw.githubusercontent.com/Faheemabdullah6522/OOP-Project/main/Window%20Forms/screenshots/Screenshot%202026-06-15%20111923.png">
 
 ## Tech Stack ⚙
 
