@@ -1,0 +1,49 @@
+﻿using System;
+using System.ComponentModel;
+using System.Drawing;
+using System.Drawing.Drawing2D;
+using System.Windows.Forms;
+
+namespace Window_Forms
+{
+    public class GradientPanel : Panel
+    {
+        [Category("Appearance")]
+        [Description("Top color of the gradient")]
+        [DefaultValue(typeof(Color), "White")]
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Visible)]
+        public Color GradientTop { get; set; } = Color.White;
+
+        [Category("Appearance")]
+        [Description("Bottom color of the gradient")]
+        [DefaultValue(typeof(Color), "Black")]
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Visible)]
+        public Color GradientBottom { get; set; } = Color.Black;
+        public GradientPanel()
+        {
+            this.Resize += GradientPanel_Resize;
+
+            // Reduce flickering
+            this.DoubleBuffered = true;
+        }
+
+        private void GradientPanel_Resize(object sender, EventArgs e)
+        {
+            this.Invalidate();
+        }
+
+        protected override void OnPaint(PaintEventArgs e)
+        {
+            base.OnPaint(e);
+
+            using (LinearGradientBrush brush = new LinearGradientBrush(
+                this.ClientRectangle,
+                GradientTop,
+                GradientBottom,
+                90F))
+            {
+                e.Graphics.FillRectangle(brush, this.ClientRectangle);
+            }
+        }
+    }
+}

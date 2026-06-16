@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\approverejectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:approverejectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\storedprocedures.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:storedprocedures.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\createscholarshipdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:createscholarshipdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\createscholarshipdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:createscholarshipdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\storedprocedures.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:storedprocedures.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApproveRejectForm.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ApproveRejectForm.cs",
+              "RelativeDocumentMoniker": "ApproveRejectForm.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ApproveRejectForm.cs",
+              "RelativeToolTip": "ApproveRejectForm.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwvwgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T17:01:17.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T17:01:04.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForgotPasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ForgotPasswordForm.cs",
+              "RelativeDocumentMoniker": "ForgotPasswordForm.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ForgotPasswordForm.cs",
+              "RelativeToolTip": "ForgotPasswordForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T17:01:00.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoredProcedures.sql ",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StoredProcedures.sql",
+              "RelativeDocumentMoniker": "StoredProcedures.sql",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StoredProcedures.sql",
+              "RelativeToolTip": "StoredProcedures.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-14T16:52:29.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateScholarshipDatabase.sql ",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\CreateScholarshipDatabase.sql",
+              "RelativeDocumentMoniker": "CreateScholarshipDatabase.sql",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\CreateScholarshipDatabase.sql",
+              "RelativeToolTip": "CreateScholarshipDatabase.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-14T16:51:39.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "ProfileForm.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ProfileForm.cs",
+              "RelativeToolTip": "ProfileForm.cs",
+              "ViewState": "AgIAADkDAAAAAAAAAAAiwMACAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T16:51:24.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAADwvwoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T01:58:16.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAGcCAAAAAAAAAAAmwHcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T01:18:24.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\AdminDashboard.cs",
+              "RelativeToolTip": "AdminDashboard.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T01:17:49.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

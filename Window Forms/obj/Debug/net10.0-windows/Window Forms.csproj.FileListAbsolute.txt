@@ -1,0 +1,304 @@
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Window Forms.exe
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Window Forms.deps.json
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Window Forms.runtimeconfig.json
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Window Forms.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Window Forms.pdb
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Properties.Resources.resources
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window Forms.csproj.GenerateResource.cache
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window Forms.AssemblyInfoInputs.cache
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window Forms.AssemblyInfo.cs
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window Forms.csproj.CoreCompileInputs.cache
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window Forms.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\refint\Window Forms.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window Forms.pdb
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window Forms.genruntimeconfig.cache
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\ref\Window Forms.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Calculater.resources
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window_Forms.listbox.resources
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window_Forms.combobox.resources
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Login.resources
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window_Forms.OTP.resources
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window Forms.csproj.AssemblyReference.cache
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Register.resources
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window F.7160FB5A.Up2Date
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faheem Abdullah\Downloads\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Form1.resources
+D:\Window Forms\bin\Debug\net10.0-windows\Window Forms.exe
+D:\Window Forms\bin\Debug\net10.0-windows\Window Forms.deps.json
+D:\Window Forms\bin\Debug\net10.0-windows\Window Forms.runtimeconfig.json
+D:\Window Forms\bin\Debug\net10.0-windows\Window Forms.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Window Forms.pdb
+D:\Window Forms\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Google.Protobuf.dll
+D:\Window Forms\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+D:\Window Forms\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Window Forms\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Window Forms\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Window Forms\bin\Debug\net10.0-windows\MySql.Data.dll
+D:\Window Forms\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Window Forms\bin\Debug\net10.0-windows\ZstdSharp.dll
+D:\Window Forms\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Window Forms\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Window Forms\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Window Forms\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Window Forms\obj\Debug\net10.0-windows\Window Forms.csproj.AssemblyReference.cache
+D:\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Calculater.resources
+D:\Window Forms\obj\Debug\net10.0-windows\Window_Forms.combobox.resources
+D:\Window Forms\obj\Debug\net10.0-windows\Window_Forms.listbox.resources
+D:\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Login.resources
+D:\Window Forms\obj\Debug\net10.0-windows\Window_Forms.OTP.resources
+D:\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Properties.Resources.resources
+D:\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Register.resources
+D:\Window Forms\obj\Debug\net10.0-windows\Window Forms.csproj.GenerateResource.cache
+D:\Window Forms\obj\Debug\net10.0-windows\Window Forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Window Forms\obj\Debug\net10.0-windows\Window Forms.AssemblyInfoInputs.cache
+D:\Window Forms\obj\Debug\net10.0-windows\Window Forms.AssemblyInfo.cs
+D:\Window Forms\obj\Debug\net10.0-windows\Window Forms.csproj.CoreCompileInputs.cache
+D:\Window Forms\obj\Debug\net10.0-windows\Window F.7160FB5A.Up2Date
+D:\Window Forms\obj\Debug\net10.0-windows\Window Forms.dll
+D:\Window Forms\obj\Debug\net10.0-windows\refint\Window Forms.dll
+D:\Window Forms\obj\Debug\net10.0-windows\Window Forms.pdb
+D:\Window Forms\obj\Debug\net10.0-windows\Window Forms.genruntimeconfig.cache
+D:\Window Forms\obj\Debug\net10.0-windows\ref\Window Forms.dll
+D:\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Loading.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window Forms.csproj.AssemblyReference.cache
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.AddEditScholarshipForm.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.AdminDashboard.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.ApplyForm.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.ApproveRejectForm.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.listbox.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Loading.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Login.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.OTP.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.ProfileForm.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Properties.Resources.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Register.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.StudentDashboard.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window Forms.csproj.GenerateResource.cache
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window Forms.AssemblyInfoInputs.cache
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window Forms.AssemblyInfo.cs
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window Forms.csproj.CoreCompileInputs.cache
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window Forms.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\refint\Window Forms.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window Forms.pdb
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\click.wav
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\success.wav
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Window Forms.exe
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Window Forms.deps.json
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Window Forms.runtimeconfig.json
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Window Forms.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Window Forms.pdb
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window F.7160FB5A.Up2Date
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window Forms.genruntimeconfig.cache
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\ref\Window Forms.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.ToastForm.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.AllDocumentsForm.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\LatoFont\OFL.txt
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\QuestPDF.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.ApplicationsForm.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.NotificationsForm.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.StudentProfilePopupForm.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\Guna.Charts.WinForms.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.ForgotPasswordForm.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\obj\Debug\net10.0-windows\Window_Forms.StudentListForm.resources
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\lib\x64\sgbledev.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\lib\x64\sgfdusdax64.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\lib\x64\sgfpamx.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\lib\x64\sgfplib.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\lib\x64\sgwsqlib.dll
+C:\Users\Faheem Abdullah\Documents\Window Forms\bin\Debug\net10.0-windows\SecuGen.FDxSDKPro.DotNet.Windows.dll
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window Forms.csproj.AssemblyReference.cache
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.AddEditScholarshipForm.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.AdminDashboard.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.AllDocumentsForm.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.ApplicationsForm.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.ApplyForm.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.ApproveRejectForm.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Calculater.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.combobox.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.FingerprintCaptureForm.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.ForgotPasswordForm.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.listbox.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Loading.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Login.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.NotificationsForm.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.OTP.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.ProfileForm.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Properties.Resources.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.Register.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.StudentDashboard.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.StudentListForm.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.StudentProfilePopupForm.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window_Forms.ToastForm.resources
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window Forms.csproj.GenerateResource.cache
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window Forms.AssemblyInfoInputs.cache
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window Forms.AssemblyInfo.cs
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window Forms.csproj.CoreCompileInputs.cache
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window Forms.sourcelink.json
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window Forms.dll
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\refint\Window Forms.dll
+C:\Users\Faheem Abdullah\Documents\Github\OOP-Project\Window Forms\obj\Debug\net10.0-windows\Window Forms.pdb

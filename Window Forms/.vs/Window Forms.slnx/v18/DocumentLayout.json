@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\createscholarshipdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:createscholarshipdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\documentextractorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:documentextractorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\documentprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:documentprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\notificationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:notificationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\studentprofilepopupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:studentprofilepopupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\studentprofilepopupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:studentprofilepopupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\toastform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:toastform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\uitheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:uitheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\approverejectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:approverejectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\storedprocedures.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:storedprocedures.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|c:\\users\\faheem abdullah\\documents\\github\\oop-project\\window forms\\createscholarshipdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{06E9160A-2879-6C3E-36C1-01B00DD15D71}|Window Forms.csproj|solutionrelative:createscholarshipdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentExtractorService.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\DocumentExtractorService.cs",
+              "RelativeDocumentMoniker": "DocumentExtractorService.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\DocumentExtractorService.cs",
+              "RelativeToolTip": "DocumentExtractorService.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAowMcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:13:46.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentPrintService.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\DocumentPrintService.cs",
+              "RelativeDocumentMoniker": "DocumentPrintService.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\DocumentPrintService.cs",
+              "RelativeToolTip": "DocumentPrintService.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:13:42.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\GeminiService.cs",
+              "RelativeDocumentMoniker": "GeminiService.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\GeminiService.cs",
+              "RelativeToolTip": "GeminiService.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAowPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:12:56.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loading.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Loading.cs",
+              "RelativeDocumentMoniker": "Loading.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Loading.cs",
+              "RelativeToolTip": "Loading.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:12:51.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\NotificationsForm.cs",
+              "RelativeDocumentMoniker": "NotificationsForm.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\NotificationsForm.cs",
+              "RelativeToolTip": "NotificationsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:12:37.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Register.cs",
+              "RelativeToolTip": "Register.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwFwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:12:05.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Session.cs",
+              "RelativeDocumentMoniker": "Session.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Session.cs",
+              "RelativeToolTip": "Session.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:12:01.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StudentDashboard.cs",
+              "RelativeToolTip": "StudentDashboard.cs",
+              "ViewState": "AgIAAKQCAAAAAAAAAAAkwKsCAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:10:50.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StudentDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "StudentDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StudentDashboard.Designer.cs",
+              "RelativeToolTip": "StudentDashboard.Designer.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAYwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:10:43.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentListForm.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StudentListForm.cs",
+              "RelativeDocumentMoniker": "StudentListForm.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StudentListForm.cs",
+              "RelativeToolTip": "StudentListForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:10:38.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentProfilePopupForm.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StudentProfilePopupForm.cs",
+              "RelativeDocumentMoniker": "StudentProfilePopupForm.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StudentProfilePopupForm.cs",
+              "RelativeToolTip": "StudentProfilePopupForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:10:27.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentProfilePopupForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StudentProfilePopupForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentProfilePopupForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StudentProfilePopupForm.Designer.cs",
+              "RelativeToolTip": "StudentProfilePopupForm.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:10:19.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ToastForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ToastForm.cs",
+              "RelativeDocumentMoniker": "ToastForm.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ToastForm.cs [Design]",
+              "RelativeToolTip": "ToastForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:10:16.674Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UiTheme.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\UiTheme.cs",
+              "RelativeDocumentMoniker": "UiTheme.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\UiTheme.cs",
+              "RelativeToolTip": "UiTheme.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:10:12.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Utils.cs",
+              "RelativeDocumentMoniker": "Utils.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Utils.cs",
+              "RelativeToolTip": "Utils.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:09:31.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApproveRejectForm.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ApproveRejectForm.cs",
+              "RelativeDocumentMoniker": "ApproveRejectForm.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ApproveRejectForm.cs",
+              "RelativeToolTip": "ApproveRejectForm.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwvwgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T17:01:17.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv10AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T17:01:04.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgotPasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ForgotPasswordForm.cs",
+              "RelativeDocumentMoniker": "ForgotPasswordForm.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ForgotPasswordForm.cs",
+              "RelativeToolTip": "ForgotPasswordForm.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T17:01:00.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StoredProcedures.sql",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StoredProcedures.sql",
+              "RelativeDocumentMoniker": "StoredProcedures.sql",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\StoredProcedures.sql",
+              "RelativeToolTip": "StoredProcedures.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-14T16:52:29.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateScholarshipDatabase.sql ",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\CreateScholarshipDatabase.sql",
+              "RelativeDocumentMoniker": "CreateScholarshipDatabase.sql",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\CreateScholarshipDatabase.sql",
+              "RelativeToolTip": "CreateScholarshipDatabase.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-14T16:51:39.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "ProfileForm.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\ProfileForm.cs",
+              "RelativeToolTip": "ProfileForm.cs",
+              "ViewState": "AgIAAE8DAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T16:51:24.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T01:58:16.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAGcCAAAAAAAAAAAmwHcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T01:18:24.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Faheem Abdullah\\Documents\\Github\\OOP-Project\\Window Forms\\AdminDashboard.cs",
+              "RelativeToolTip": "AdminDashboard.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T01:17:49.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
