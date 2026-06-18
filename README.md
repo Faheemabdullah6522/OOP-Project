@@ -15,7 +15,6 @@ A Windows Forms-based scholarship management system with fingerprint verificatio
 | Scholarship Management   | Create, edit, activate/deactivate scholarships            |
 | Student Profiles         | Manage personal/academic info, upload documents           |
 | Apply for Scholarships   | Submit applications with required documents               |
-| Fingerprint Verification | SecuGen-based enrollment & verification for identity      |
 | AI Document Extraction   | Google Gemini extracts structured data from uploaded docs |
 | Application Tracking     | Track status (Pending/Approved/Rejected) with comments    |
 | PDF Receipt Generation   | Auto-generated application receipts via QuestPDF          |
